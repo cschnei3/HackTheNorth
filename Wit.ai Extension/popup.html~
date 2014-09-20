@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Wit.ai Popup</title>
+    <style>
+      body {
+        min-width: 357px;
+	min-height: 357px;
+        overflow-x: hidden;
+      }
+    </style>
+	<script src="jquery-2.1.1.js"></script>
+    	<script src="popup.js"></script>
+
+	
+  </head>
+  <body>
+
+  </body>
+</html>
+
